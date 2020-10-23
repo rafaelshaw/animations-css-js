@@ -4,6 +4,9 @@
 
 ```bash
 cd ~/rafael
+git config user.email "rafael_shaw465@yahoo.com"
+git config user.name "Rafael Shaw"
+git config --list
 git clone https://github.com/rafaelshaw/animations-css-js.git
 cd animations-css-js
 code .
