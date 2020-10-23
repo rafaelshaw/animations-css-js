@@ -23,3 +23,17 @@ Cmd-Space `search for`: `keychain In keychain search for:` github
 ```
 
 </details>
+
+<details><summary>Run the web server</summary>
+
+```bash
+cd ~/rafael/animations-css-js
+open index.html
+python -m SimpleHTTPServer
+open "http://localhost:8000"
+git add -A
+git commit -m "Start http server"
+git push
+```
+
+</details>
