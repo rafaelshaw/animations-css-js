@@ -12,6 +12,8 @@ git add -A
 git status
 git commit -m "Initial commit"
 git status
+git commit --amend --reset-author
+git log
 git push
 git status
 ```
