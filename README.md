@@ -19,6 +19,7 @@ git commit --amend --reset-author
 git log
 git push
 git status
+Cmd-Space `search for`: `keychain In keychain search for:` github
 ```
 
 </details>
